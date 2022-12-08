@@ -8,4 +8,5 @@ table, th, td {
     font-size: larger;
     font-weight: bold;
     text-transform: uppercase;
+    padding-bottom: 10px;
   }
