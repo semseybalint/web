@@ -3,3 +3,9 @@ table, th, td {
     border-radius: 10px;
     text-align: center;
   }
+
+  caption {
+    font-size: larger;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
