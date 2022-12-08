@@ -10,3 +10,7 @@ table, th, td {
     text-transform: uppercase;
     padding-bottom: 10px;
   }
+
+  th {
+    background-color: mediumslateblue;
+  }
